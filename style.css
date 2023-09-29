@@ -48,7 +48,7 @@ body {
     position: absolute;
     left: 444px;
     bottom: 30vh;
-    animation: carShake linear 6s infinite;
+    animation: carShake linear .6s infinite;
 }
 
 /* .wheel{
